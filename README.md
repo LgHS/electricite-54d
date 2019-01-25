@@ -9,6 +9,9 @@ Documentation installation électrique du bâtiment.
         - Fusible 4
         - Fusible 5
         - Fusible 6
+        	- Interrupteurs
+            - Eclairages
+            - Prises
         - Fusible 7
         - Fusible 8
         - Fusible 9
