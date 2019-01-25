@@ -6,16 +6,16 @@ L'alimentation générale est dans la cave du 53. Seul le propriétaire et le pr
 ## Tableau 54
 [Page Tableau 54](54/tableau.md)
 ### Fusible 1 
-ID: 54-1
+ID: [54-1](54/fusible-1.md)
 
 ### Fusible 2 
-ID: 54-2
+ID: [54-2](54/fusible-2.md)
 
 ### Fusible 3 
-ID: 54-3
+ID: [54-3](54/fusible-3.md)
 
 ### Fusible 4 
-ID: 54-4
+ID: [54-4](54/fusible-4.md)
 
 ### Fusible 5 
 ID: 54-5
