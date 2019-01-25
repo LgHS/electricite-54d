@@ -5,15 +5,33 @@ L'alimentation générale est dans la cave du 53. Seul le propriétaire et le pr
 
 ## Tableau 54
 [Page Tableau 54](54/tableau.md)
-### Fusible 1 [54-1]
-### Fusible 2 [54-2]
-### Fusible 3 [54-3]
-### Fusible 4 [54-4]
-### Fusible 5 [54-5]
-### Fusible 6 [54-6]
-### Fusible 7 [54-7]
-### Fusible 8 [54-8]
-### Fusible 9 [54-9]
+### Fusible 1 
+ID: [54-1]
+
+### Fusible 2 
+ID: [54-2]
+
+### Fusible 3 
+ID: [54-3]
+
+### Fusible 4 
+ID: [54-4]
+
+### Fusible 5 
+ID: [54-5]
+
+### Fusible 6
+ID: [54-6]
+
+### Fusible 7
+ID: [54-7]
+
+### Fusible 8
+ID: [54-8]
+
+### Fusible 9
+ID: [54-9]
+
 ### Fusible 10 [54-10]
 ### Fusible 11 [54-11]
 ### Fusible 12 [54-12]
