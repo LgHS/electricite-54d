@@ -4,7 +4,7 @@ Documentation installation électrique du bâtiment.
 
 ## Tableau 54
 [Page Tableau 54](54/tableau.md)
-### Fusible 1
+### Fusible 1 [54-1]
 
 
 ## Tableau HS
