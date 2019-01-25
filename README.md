@@ -55,7 +55,7 @@ ID: [54-16](54/16.md)
 
 
 ## Tableau HS
-[Page Tableau HS](HS/tableau.md)
+[Page Tableau HS](hs/tableau.md)
 ### Fusible 1 
 ID: [HS-1](hs/1.md)
 
