@@ -3,6 +3,10 @@ Documentation installation électrique du bâtiment.
 
 L'alimentation générale est dans la cave du 53. Seul le propriétaire et le président de la copro ont accès à cette zone.
 
+## Plans
+- ...
+
+
 ## Tableau 54
 [Page Tableau 54](54/tableau.md)
 
